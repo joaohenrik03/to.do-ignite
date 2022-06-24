@@ -9,6 +9,9 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@types/react": "^18.0.14",
+    "install": "^0.13.0",
+    "npm": "^8.13.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0"
