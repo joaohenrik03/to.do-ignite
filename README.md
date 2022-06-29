@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
-  <img src="https://img.shields.io/github/last-commit/joaohenrik03/attendance-list" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/joaohenrik03/to.do-ignite" alt="Last Commit">
 </p>
 
 <p align="center">
